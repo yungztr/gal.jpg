@@ -1,6 +1,6 @@
 # gal.jpg image drawer
 
-i found the picture [original.jpg](https://www.youtube.com/watch?v=camRca2TLlk) on my pictures folder and wanted the code on the left.
+i found the picture [original.jpg](https://github.com/yungztr/gal.jpg/blob/main/original.jpeg) on my pictures folder and wanted the code on the left.
 sadly, i couldnt find a trace to the original picture, so I decided to copy it on my own
 you will need to download [Processing](https://processing.org/) to run it. its similiar to arduino IDE
 
