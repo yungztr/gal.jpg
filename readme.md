@@ -1,5 +1,7 @@
 # gal.jpg image drawer
 
+gal.jpg galaxy image code milky way (tags lol)
+
 ![oriiginal image](original.jpeg)
 
 i found the picture [original.jpg](https://raw.githubusercontent.com/yungztr/gal.jpg/main/original.jpeg) on my pictures folder and wanted the code on the left.
